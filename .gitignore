@@ -1,2 +1,2 @@
-RestAssured/.idea/
-RestAssured/target/
+RestAssured/.idea/*
+RestAssured/target/*
